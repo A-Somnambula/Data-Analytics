@@ -13,7 +13,7 @@
 
 ## Проекты
 
-### [Оценка эффективности компании (SQL)](https://docs.google.com/document/d/1jYYsFtYmm8B7SfBp24xt-_u1ZVvoh6Xgte2RlNVbAMI/edit?usp=sharing)
+### [Оценка эффективности компании (SQL, Google Docs)](https://docs.google.com/document/d/1jYYsFtYmm8B7SfBp24xt-_u1ZVvoh6Xgte2RlNVbAMI/edit?usp=sharing)
 Навыки: PostgreSQL, Google Sheets (для визуализации).
 
 Проведен анализ динамики выручки компании. Даны рекомендации по открытию офлайн-магазина.
