@@ -5,7 +5,7 @@
 
 ## Hard Skills
 
-[](https://img.shields.io/badge/MS%20Excel%2C%20Google%20Sheets-pivot%2C%20vlookup%2C%20query-blueviolet)
+![](https://img.shields.io/badge/MS%20Excel%2C%20Google%20Sheets-pivot%2C%20vlookup%2C%20query-blueviolet)
 
 ## Проекты
 
