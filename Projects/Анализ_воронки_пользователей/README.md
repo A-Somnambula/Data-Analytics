@@ -27,20 +27,20 @@
 
 #### Описание данных
 
-[**Таблица Events**](https://github.com/A-Somnambula/Data-Analytics/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/7_4_Events.csv)
+[**Таблица Events**](https://github.com/A-Somnambula/Data-Analytics/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/7_4_Events.csv)<br>
 Хранит данные о событиях, которые совершают пользователи. По сути, каждое событие — это факт прохождения пользователем какого-либо этапа игры.
 
-**id** - идентификатор события
-**user_id** - идентификатор пользователя, совершившего событие в приложении
-**start_time** - дата и время события
-**event_type** - тип события (значения: *registration* — регистрация; *tutorial_start* — начало обучения; *tutorial_finish* — завершение обучения; *level_choice* — выбор уровня сложности; *pack_choice* - выбор пакетов вопросов)
-**tutorial_id** - идентификатор обучения (этот идентификатор есть только у событий обучения)
-**selected_level** - выбранный уровень сложности обучения
+**id** - идентификатор события<br>
+**user_id** - идентификатор пользователя, совершившего событие в приложении<br>
+**start_time** - дата и время события<br>
+**event_type** - тип события (значения: *registration* — регистрация; *tutorial_start* — начало обучения; *tutorial_finish* — завершение обучения; *level_choice* — выбор уровня сложности; *pack_choice* - выбор пакетов вопросов)<br>
+**tutorial_id** - идентификатор обучения (этот идентификатор есть только у событий обучения)<br>
+**selected_level** - выбранный уровень сложности обучения<
 
-[**Таблица purchase**](https://github.com/A-Somnambula/Data-Analytics/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/purchase.csv)
+[**Таблица purchase**](https://github.com/A-Somnambula/Data-Analytics/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/purchase.csv)<br>
 Хранит данные об оплатах, которые совершают пользователи.
 
-**id** - идентификатор события
-**user_id** - уникальный идентификатор пользователя, совершившего событие в приложении
-**event_datetime** - дата и время события/покупки
+**id** - идентификатор события<br>
+**user_id** - уникальный идентификатор пользователя, совершившего событие в приложении<br>
+**event_datetime** - дата и время события/покупки<br>
 **amount** - сумма оплаты
