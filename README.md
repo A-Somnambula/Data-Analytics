@@ -37,4 +37,4 @@
 
 ## Сертификаты:
 
-С моими сертификатами по пройденным курсам можно ознакомиться [здесь.](https://github.com/A-Somnambula/Data-Analytics/tree/main/Sertificates)
+С моими сертификатами по пройденным курсам можно ознакомиться [здесь.](https://github.com/A-Somnambula/Data-Analytics/tree/main/Certificates)
